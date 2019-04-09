@@ -24,6 +24,7 @@
     "got": "^8.3.2",
     "heroku-cli-util": "^8.0.11",
     "lodash.flatten": "^4.4.0",
+    "phoenix": "^1.4.3",
     "shell-escape": "^0.2.0",
     "socket.io-client": "^2.2.0",
     "temp": "^0.8.3"
